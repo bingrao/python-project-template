@@ -53,3 +53,6 @@ How to install this python package
 
 How to execute this project in Unix/Linux Environment
 ===
+```batch
+python3 src/runner.py
+```

@@ -56,3 +56,8 @@ How to execute this project in Unix/Linux Environment
 ```batch
 python3 src/runner.py
 ```
+
+
+Reference
+===
+1. [Unresolved references inspection](https://intellij-support.jetbrains.com/hc/en-us/community/posts/115000646984--Solved-Warnings-import-local-package-Unresolved-references-inspection)
